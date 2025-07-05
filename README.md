@@ -36,7 +36,7 @@ This project implements a **4x4 matrix-based Hex Keypad Interface** in Verilog H
 
 ---
 
-## 🎯 Features
+##  Features
 
 -  Accurate 4x4 keypad scanning
 -  Hexadecimal output from 0 to F
@@ -45,8 +45,3 @@ This project implements a **4x4 matrix-based Hex Keypad Interface** in Verilog H
 -  Testbench for simulation
 
 ---
-
-## 🧪 Simulation Output
-
-Sample log from testbench:
-
